@@ -62,12 +62,15 @@ Current Progress: Finished landing page and all documents, and demo website [Gui
 
 **Milestones:**
 
-Phase 1: Discovery report.  <br/>
-Phase 2: Database construction.  <br/> 
-Phase 3: Design the User Interface and logical function of the website.  <br/>
-Phase 4: Implement the User Interface (UI). <br/>
-Phase 5: Establish an Application Program Interface (API) which links UI and database.   <br/>
-Phase 6: Test GuideXP website.  <br/>
+| Phase          |Period            |    Milestones                                                               | 
+|----------------|------------------|-----------------------------------------------------------------------------| 
+| Phase 1        |Week2 - Week3     |Discovery report                                                             |
+| Phase 2        |Week4 - Week5     |Database construction                                                        |
+| Phase 3        |Week6 - Week7     |Design the User Interface and logical function of the website                |
+| Phase 4        |Week8 - Week9     |Implement the User Interface (UI)                                            |
+| Phase 5        |Week10 - Week11   |Establish an Application Program Interface (API) which links UI and database |  
+| Phase 6        |Week12            |Test GuideXP website                                                         |
+
 
 <br />
 <h2><a name = "Title5"> 5. Tools and Risks</a></h2>
