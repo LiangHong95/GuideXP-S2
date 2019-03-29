@@ -12,7 +12,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h2>administrator Login In</h2>
+          <h2>Administrator Login</h2>
           <input type="text" id="username" value="Username" size="30"/>
           <br/>
           <input type="text" id="password" value="Password" size="30"/>
