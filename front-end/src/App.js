@@ -1,24 +1,24 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import logo from './GuideXPLogo.PNG';
 import './App.css';
+//import GiudeXPLogo;
 
 class App extends Component {
+
   render() {
+
     return (
+
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
+          <h2>administrator Login In</h2>
+          <input type="text" id="username" value="Username" size="30"/>
+          <br/>
+          <input type="text" id="password" value="Password" size="30"/>
+          <br/>
+          <button onClick='clickAlert()'>Login</button>
+                
         </header>
       </div>
     );
