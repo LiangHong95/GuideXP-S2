@@ -41,6 +41,14 @@ Visitors, Artists, galleries and museums
 
 >[Google Drive](https://drive.google.com/drive/folders/15bTeGJ3WNw2tvQ_D-i7A4kFneSuHTx12)
 
+**Prototype**
+
+>[GUI Interaction](https://marvelapp.com/317d466/screen/33853357) <br />
+
+**Agile Team Management (Tasks Assignment)**
+
+>[Trello](https://trello.com/b/ggidOa5S/guidexp-user-stories) <br />
+
 **Statement of Work**
 
 >[Statement of Work](https://docs.google.com/document/d/1lH25L3bSwY5wQWxoFNUHVVie3ZyJLHzBHO8w8M92iR4/edit) <br />
