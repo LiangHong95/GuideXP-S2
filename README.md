@@ -3,9 +3,11 @@
 <h2><a name = "content"> Contents </a></h2>
 <a href = "#Title1"><b> 1. Project Description </b></a><br/>
 <a href = "#Title2"><b> 2. Stakeholders </b></a><br/>
-<a href = "#Title3"><b> 3. Team Roles </b></a><br/>
-<a href = "#Title4"><b> 4. Support Documentation </b></a><br/>
-<a href = "#Title5"><b> 5. Tools and Risks </b></a>
+<a href = "#Title3"><b> 3. Team Roles and Management </b></a><br/>
+<a href = "#Title4"><b> 4. Prototypes </b></a><br/>
+<a href = "#Title5"><b> 5. Technology Details </b></a>
+<a href = "#Title6"><b> 6. Current Progress </b></a>
+
 
 <br />
 <h2><a name = "Title1"> 1. Project Overview </a></h2>
@@ -22,8 +24,9 @@ The GuideXP Team consists of four members plus the our ANU TechLauncher team (TB
 Visitors, Artists, galleries and museums
 
 <br />
-<h2><a name = "Title2"> 3. Team Roles </a></h2>
+<h2><a name = "Title2"> 3. Team Roles and Management </a></h2>
 
+**Roles**
 
 | Team Member                      | Role                                     | 
 |----------------------------------|------------------------------------------| 
@@ -34,39 +37,42 @@ Visitors, Artists, galleries and museums
 | Danny Feng                       | front-end (HTML,CSS), Documentation      | 
 | Yu Qiu                           | back-end, API                            | 
 
+**Agile Tasks Assignment and User Stories**
 
-
-<br />
-<h2><a name = "Title3"> 4. Support Documentation </a></h2>
-
->[Google Drive](https://drive.google.com/drive/folders/15bTeGJ3WNw2tvQ_D-i7A4kFneSuHTx12)
-
-**Prototype**
-
->[GUI Interaction](https://marvelapp.com/317d466/screen/33853357) <br />
-
-**Agile Team Management (Tasks Assignment)**
-
->[Trello](https://trello.com/b/ggidOa5S/guidexp-user-stories) <br />
-
-**Statement of Work**
-
->[Statement of Work](https://docs.google.com/document/d/1lH25L3bSwY5wQWxoFNUHVVie3ZyJLHzBHO8w8M92iR4/edit) <br />
+[Trello](https://trello.com/b/ggidOa5S/guidexp-user-stories) <br />
 
 **Team Communication**
 
 > Slack <br />
->[Meeting Minutes](https://docs.google.com/document/d/1HF43_ZPIRMsKB-7sxnn5PTl0tQVRLiOkXD3uRmyszY4/edit) <br />
-
-**Issues Tracking**
-
->[Github issues](https://github.com/DannyFirmin/GuideXP/issues)<br />
-
-
+> Meeting Minutes are in each week's folder <br />
 <br />
-<h2><a name = "Title4"> 4. Current Progress </a></h2>
 
-Current Progress: Finished landing page and all documents, and demo website [GuideXP](https://guidexp.wordpress.com)
+<h2><a name = "Title3"> 4. Prototypes </a></h2>
+
+[GUI Interaction](https://marvelapp.com/317d466/screen/33853357) <br />
+[Wordpress](http://www.guidexp.me/) <br />
+
+
+<h2><a name = "Title3"> 5. Technology Details </a></h2>
+**Tools**
+* Front-end:  
+  * JavaScript
+  * React
+  * CSS/PHP
+* Back-end: 
+  * Django
+  * MySQL
+* Servers:
+  * AWS
+
+**Architecture diagram and ER diagram**
+![Architecture diagram](/Week6/framework.png)
+![ER diagram](/Week6/ER%20diagram-GUIDEXP.jpg)
+<br />
+
+<h2><a name = "Title4"> 6. Current Progress </a></h2>
+
+Current Progress: Developing front-end and API
 
 **Milestones:**
 
@@ -79,18 +85,4 @@ Current Progress: Finished landing page and all documents, and demo website [Gui
 | Phase 5        |Week10 - Week11   |Establish an Application Program Interface (API) which links UI and database |  
 | Phase 6        |Week12            |Test GuideXP website                                                         |
 
-
 <br />
-<h2><a name = "Title5"> 5. Tools and Risks</a></h2>
-
-* Available Tools:  
-  * Python
-  * JavaScript
-  * MongoDB(uncertain)
-  
-* Risk
-  * Cost over budget
-  * Failure to meet customer requirements
-  * Ineffective teamwork
-  * Project extension
-
