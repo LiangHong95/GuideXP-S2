@@ -40,6 +40,8 @@ Visitors, Artists, galleries and museums
 **Agile Tasks Assignment and User Stories**
 
 [Trello](https://trello.com/b/ggidOa5S/guidexp-user-stories) <br />
+![Kanban](/Week6/kanban.png)
+
 
 **Team Communication**
 
