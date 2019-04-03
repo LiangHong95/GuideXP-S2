@@ -5,7 +5,7 @@
 <a href = "#Title2"><b> 2. Stakeholders </b></a><br/>
 <a href = "#Title3"><b> 3. Team Roles and Management </b></a><br/>
 <a href = "#Title4"><b> 4. Prototypes </b></a><br/>
-<a href = "#Title5"><b> 5. Technology Details </b></a>
+<a href = "#Title5"><b> 5. Technology Details </b></a><br/>
 <a href = "#Title6"><b> 6. Current Progress </b></a>
 
 
@@ -43,17 +43,17 @@ Visitors, Artists, galleries and museums
 
 **Team Communication**
 
-> Slack <br />
-> Meeting Minutes are in each week's folder <br />
+Slack <br />
+Meeting Minutes are in each week's folder <br />
 <br />
 
-<h2><a name = "Title3"> 4. Prototypes </a></h2>
+<h2><a name = "Title4"> 4. Prototypes </a></h2>
 
 [GUI Interaction](https://marvelapp.com/317d466/screen/33853357) <br />
 [Wordpress](http://www.guidexp.me/) <br />
 
 
-<h2><a name = "Title3"> 5. Technology Details </a></h2>
+<h2><a name = "Title5"> 5. Technology Details </a></h2>
 **Tools**
 * Front-end:  
   * JavaScript
@@ -70,7 +70,7 @@ Visitors, Artists, galleries and museums
 ![ER diagram](/Week6/ER%20diagram-GUIDEXP.jpg)
 <br />
 
-<h2><a name = "Title4"> 6. Current Progress </a></h2>
+<h2><a name = "Title6"> 6. Current Progress </a></h2>
 
 Current Progress: Developing front-end and API
 
