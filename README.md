@@ -54,7 +54,9 @@ Meeting Minutes are in each week's folder <br />
 
 
 <h2><a name = "Title5"> 5. Technology Details </a></h2>
+
 **Tools**
+
 * Front-end:  
   * JavaScript
   * React
