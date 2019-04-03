@@ -70,8 +70,8 @@ Meeting Minutes are in each week's folder <br />
   * AWS
 
 **Architecture diagram and ER diagram**
-![Architecture diagram](/Week6/framework.png)
-![ER diagram](/Week6/ER%20diagram-GUIDEXP.jpg)
+![Architecture diagram](/Architecture%20map.png)
+![ER diagram](/Week6/ER%20diagram.png)
 <br />
 
 <h2><a name = "Title6"> 6. Current Progress </a></h2>
