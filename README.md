@@ -5,8 +5,9 @@
 <a href = "#Title2"><b> 2. Stakeholders </b></a><br/>
 <a href = "#Title3"><b> 3. Team Roles and Management </b></a><br/>
 <a href = "#Title4"><b> 4. Prototypes </b></a><br/>
-<a href = "#Title5"><b> 5. Technology Details </b></a><br/>
-<a href = "#Title6"><b> 6. Current Progress </b></a>
+<a href = "#Title6"><b> 5. Schedule </b></a><br/>
+<a href = "#Title5"><b> 6. Outputs </b></a>
+
 
 
 <br />
@@ -54,29 +55,7 @@ Meeting Minutes are in each week's folder <br />
 [GUI Interaction](https://marvelapp.com/317d466/screen/33853357) <br />
 [Wordpress](http://www.guidexp.me/) <br />
 
-
-<h2><a name = "Title5"> 5. Technology Details </a></h2>
-
-**Tools**
-
-* Front-end:  
-  * JavaScript
-  * React
-  * CSS/PHP
-* Back-end: 
-  * Django
-  * MySQL
-* Servers:
-  * AWS
-
-**Architecture diagram and ER diagram**
-![Architecture diagram](/Week6/Architecture%20map.png)
-![ER diagram](/Week6/ER%20diagram.png)
-<br />
-
-<h2><a name = "Title6"> 6. Current Progress </a></h2>
-
-Current Progress: Developing front-end and API
+<h2><a name = "Title6"> 5. Schedule </a></h2>
 
 **Milestones:**
 
@@ -87,6 +66,31 @@ Current Progress: Developing front-end and API
 | Phase 3        |Week6 - Week7     |Design the User Interface and logical function of the website                |
 | Phase 4        |Week8 - Week9     |Implement the User Interface (UI)                                            |
 | Phase 5        |Week10 - Week11   |Establish an Application Program Interface (API) which links UI and database |  
-| Phase 6        |Week12            |Test GuideXP website                                                         |
+| Phase 6        |Week12            |Testing                                                                      |
 
+<br />
+
+<h2><a name = "Title5"> 6. Outputs </a></h2>
+
+**The Systems We Developed**
+
+* Visitor System:  
+  * Link: http://new.guidexp.me/
+  * JavaScript
+  * html/CSS
+  * bootstrap
+* Administrator System: 
+  * Link: http://admin.guidexp.me/
+  * Django
+  * Django REST framework
+  * MySQL
+  * bootstrap
+* Servers:
+  * Configured Amazon Web Services (AWS) - Elastic Compute Cloud (EC2)
+  * Configured Crazy Domains AU for DNS and domains
+  * Configured nginx/Ubuntu 18.04
+
+**Architecture diagram and ER diagram**
+![Architecture diagram](/Week6/Architecture%20map.png)
+![ER diagram](/Week6/ER%20diagram.png)
 <br />
