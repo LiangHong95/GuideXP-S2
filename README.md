@@ -93,5 +93,5 @@ Meeting Minutes are in each week's folder <br />
 **Architecture diagram and ER diagram**
 ![Architecture diagram](/Week6/Architecture%20map.png)
 ![ER diagram](/Week6/ER%20diagram.png)
-![GuideXP Poster](/GuideXP Poster.pdf)
+
 <br />
