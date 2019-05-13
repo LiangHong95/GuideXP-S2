@@ -64,7 +64,11 @@ If the administrator have not signed in, then he or she will enter in the login 
 * Login page:
 ![Loginpage](/week10/loginpage.png)<br/>
 The account can only be provided by administrators, in case that anyone can log in and upload non-related files.
-* 
+* Create new art:
+![Createart](/week10/createnewart.png)<br/>
+The creaters can create and upload new art and descriptions.
+* Create new account:
+![Createnewaccount](/week10/createnewaccount.png)<br/>
 
 <h2><a name = "Title4"> 4. Stakeholders </a></h2>
 
