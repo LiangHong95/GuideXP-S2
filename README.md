@@ -47,7 +47,7 @@ The GuideXP Team consists of four members plus the our ANU TechLauncher team (TB
 <h2><a name = "Title3"> 3. How to use </a></h2>
 
 **For visitors**
-* ![Homepage](/week9/guidexpposter.png)<br/>
+* ![Guidexpposter](/week9/guidexpposter.png)<br/>
 * 
 
 <h2><a name = "Title4"> 4. Stakeholders </a></h2>
