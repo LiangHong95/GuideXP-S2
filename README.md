@@ -104,7 +104,7 @@ Meeting Minutes are in each week's folder <br />
 <br />
 
 <h2><a name = "Title7"> 8. Poster </a></h2>
-![Kanban](/Week6/kanban.png)
+
 <br />
 
 
