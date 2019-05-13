@@ -30,6 +30,8 @@ The GuideXP Team consists of four members plus the our ANU TechLauncher team (TB
   * JavaScript
   * html/CSS
   * bootstrap
+  * homepage:
+  * 
 * Administrator System: 
   * Link: http://admin.guidexp.me/
   * Django
@@ -40,10 +42,6 @@ The GuideXP Team consists of four members plus the our ANU TechLauncher team (TB
   * Configured Amazon Web Services (AWS) - Elastic Compute Cloud (EC2)
   * Configured Crazy Domains AU for DNS and domains
   * Configured nginx/Ubuntu 18.04
-
-**Architecture diagram and ER diagram**
-![Architecture diagram](/Week6/Architecture%20map.png)
-![ER diagram](/Week6/ER%20diagram.png)
 
 <br />
 <h2><a name = "Title3"> 3. Stakeholders </a></h2>
