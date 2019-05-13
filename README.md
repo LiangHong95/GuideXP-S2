@@ -2,11 +2,12 @@
 
 <h2><a name = "content"> Contents </a></h2>
 <a href = "#Title1"><b> 1. Project Description </b></a><br/>
-<a href = "#Title2"><b> 2. Stakeholders </b></a><br/>
-<a href = "#Title3"><b> 3. Team Roles and Management </b></a><br/>
-<a href = "#Title4"><b> 4. Prototypes </b></a><br/>
-<a href = "#Title6"><b> 5. Schedule </b></a><br/>
-<a href = "#Title5"><b> 6. Outputs </b></a>
+<a href = "#Title2"><b> 2. Outputs </b></a>
+<a href = "#Title3"><b> 3. Stakeholders </b></a><br/>
+<a href = "#Title4"><b> 4. Team Roles and Management </b></a><br/>
+<a href = "#Title5"><b> 5. Prototypes </b></a><br/>
+<a href = "#Title6"><b> 6. Schedule </b></a><br/>
+
 
 
 
