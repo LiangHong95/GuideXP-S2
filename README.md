@@ -8,8 +8,7 @@
 <a href = "#Title5"><b> 5. Team Roles and Management </b></a><br/>
 <a href = "#Title6"><b> 6. Prototypes </b></a><br/>
 <a href = "#Title7"><b> 7. Schedule </b></a><br/>
-
-
+<a name = "#Title8"><b>  8. GuideXP Poster</b></a><br/>
 
 
 <br />
@@ -103,8 +102,8 @@ Meeting Minutes are in each week's folder <br />
 
 <br />
 
-<h2><a name = "Title7"> 8. GuideXP Poster </a></h2>
-![Poster](/week9/guidexpposter.png)<br/>
+<h2><a name = "Title8"> 8. GuideXP Poster </a></h2>
+![Poster](/week9/guidexpposter.png)
 
 <br />
 
