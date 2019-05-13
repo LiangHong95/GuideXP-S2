@@ -49,7 +49,6 @@ The GuideXP Team consists of four members plus the our ANU TechLauncher team (TB
 
 **For visitors**
 * ![Homepage](/week10/homepage.png)<br/>
-* ![Homepage](/week10/homepage.png)<br/>
 * 
 
 <h2><a name = "Title4"> 4. Stakeholders </a></h2>
@@ -105,8 +104,8 @@ Meeting Minutes are in each week's folder <br />
 <br />
 
 <h2><a name = "Title7"> 8. GuideXP Poster </a></h2>
+* ![Homepage](/week10/homepage.png)<br/>
 
-
-
+<br />
 
 
