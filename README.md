@@ -50,12 +50,21 @@ The GuideXP Team consists of four members plus the our ANU TechLauncher team (TB
 * Homepage:
 ![Homepage](/week10/homepage_PC.png)<br/>
 Visitors can select what they want to know through the navigation.
-* Audio text:
+* Audio and text:
 ![Audio](/week10/Audioandtext.png)<br/>
 Visitors can listen the audio about the art.
 * Artists:
 ![Artists](/week10/Artist.png)<br/>
 Visitors can know about the artists.
+
+**For creaters and administrators**
+* How to login:
+![Howtologin](/week10/howtologin.png)<br/>
+If the administrator have not signed in, then he or she will enter in the login page when press the two buttons. However, if the adminsitrator have signed in, then he or she will enter in the manage system when press the upload button.
+* Login page:
+![Loginpage](/week10/login.png)<br/>
+The account can only be provided by administrators, in case that anyone can log in and upload non-related files.
+* 
 
 <h2><a name = "Title4"> 4. Stakeholders </a></h2>
 
