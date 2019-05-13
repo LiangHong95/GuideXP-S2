@@ -105,6 +105,7 @@ Meeting Minutes are in each week's folder <br />
 
 <h2><a name = "Title7"> 8. GuideXP Poster </a></h2>
 * ![Poster](/week9/GuideXPPoster.png)<br/>
+*
 <br />
 
 
