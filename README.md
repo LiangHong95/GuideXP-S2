@@ -8,7 +8,7 @@
 <a href = "#Title5"><b> 5. Team Roles and Management </b></a><br/>
 <a href = "#Title6"><b> 6. Prototypes </b></a><br/>
 <a href = "#Title7"><b> 7. Schedule </b></a><br/>
-<a name = "#Title8"><b>  8. GuideXP Poster</b></a><br/>
+<a href = "#Title8"><b> 8. GuideXP Poster</b></a><br/>
 
 
 <br />
@@ -47,7 +47,7 @@ The GuideXP Team consists of four members plus the our ANU TechLauncher team (TB
 <h2><a name = "Title3"> 3. How to use </a></h2>
 
 **For visitors**
-* ![Homepage](/week10/homepage_PC.png)<br/>
+* ![Homepage](/week9/guidexpposter.png)<br/>
 * 
 
 <h2><a name = "Title4"> 4. Stakeholders </a></h2>
