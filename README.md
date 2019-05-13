@@ -48,7 +48,7 @@ The GuideXP Team consists of four members plus the our ANU TechLauncher team (TB
 <h2><a name = "Title3"> 3. How to use </a></h2>
 
 **For visitors**
-* ![Homepage](/Week10/homepage.jpg)
+* [Homepage](https://raw.githubusercontent.com/DannyFirmin/GuideXP/master/week10/homepage.jpg)<br/>
 * 
 
 <h2><a name = "Title4"> 4. Stakeholders </a></h2>
@@ -102,5 +102,11 @@ Meeting Minutes are in each week's folder <br />
 | Phase 6        |Week12            |Testing                                                                      |
 
 <br />
+
+<h2><a name = "Title7"> 8. Poster </a></h2>
+![Kanban](/Week6/kanban.png)
+<br />
+
+
 
 
