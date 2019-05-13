@@ -62,7 +62,7 @@ Visitors can know about the artists.
 ![Howtologin](/week10/howtologin.png)<br/>
 If the administrator have not signed in, then he or she will enter in the login page when press the two buttons. However, if the adminsitrator have signed in, then he or she will enter in the manage system when press the upload button.
 * Login page:
-![Loginpage](/week10/login.png)<br/>
+![Loginpage](/week10/loginpage.png)<br/>
 The account can only be provided by administrators, in case that anyone can log in and upload non-related files.
 * 
 
