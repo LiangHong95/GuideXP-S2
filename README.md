@@ -48,7 +48,7 @@ The GuideXP Team consists of four members plus the our ANU TechLauncher team (TB
 
 **For visitors**
 * Homepage:
-![Homepage](/week10/homepage_PC.png)<br/>
+![Homepage](/week10/H.png)<br/>
 Visitors can select what they want to know through the navigation.
 * Audio and text:
 ![Audio](/week10/Audioandtext.png)<br/>
