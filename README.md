@@ -101,7 +101,7 @@ Visitors, Content creaters, galleries and museums
 **Agile Tasks Assignment and User Stories**
 
 [Trello](https://trello.com/b/ggidOa5S/guidexp-user-stories) <br />
-![Trello](/Week10/Trello.png)<br/>
+![Trello](https://raw.githubusercontent.com/DannyFirmin/GuideXP/master/week10/Trello.png)<br/>
 
 
 **Team Communication**
