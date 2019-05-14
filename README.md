@@ -26,14 +26,14 @@ The GuideXP Team consists of four members plus the our ANU TechLauncher team (TB
 **The Systems We Developed**
 
 * Visitor System:  
-  * Deployed Address: http://new.guidexp.me/
-  * [Source Code](https://github.com/DannyFirmin/guidexp.me) (As our client required, you need to send an email to us to get the account to view the source code. We have provided this account in our audit presentation. We also sent an email that guides you on how to view our source code to tutors, examiners and shadow team)
+  * Link: http://new.guidexp.me/
   * JavaScript
   * Html/CSS
   * Bootstrap
+  * Homepage:
+  * 
 * Administrator System: 
-  * Deployed Address: http://admin.guidexp.me/
-  * [Source Code](https://github.com/LiangHong95/django) (As our client required, you need to send an email to us to get the account to view the source code. We have provided this account in our audit presentation. We also sent an email that guides you on how to view our source code to tutors, examiners and shadow team)
+  * Link: http://admin.guidexp.me/
   * Django
   * Django REST framework
   * SQL
@@ -71,7 +71,10 @@ The account can only be provided by administrators, in case that anyone can log 
 The creaters can create and upload new art and descriptions.
 * Create new account:
 ![Createnewaccount](/week10/createnewaccount.png)<br/>
-
+* Different type of account:
+![Worker](/week10/worker.png)<br/>
+![Cantcreate](/week10/cantcreateaccount.png)<br/>
+If your account type is worker, then you cannot create other accounts.
 <h2><a name = "Title4"> 4. Stakeholders </a></h2>
 
 Visitors, Content creaters, galleries and museums
