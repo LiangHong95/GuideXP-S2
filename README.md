@@ -38,7 +38,7 @@ As our client required, our source code is not open to the public. You need to u
   * [Source Code](https://github.com/LiangHong95/django)
   * Django
   * Django REST framework
-  * SQL
+  * MySQL
   * Bootstrap
 * Servers:
   * Configured Amazon Web Services (AWS) - Elastic Compute Cloud (EC2)
