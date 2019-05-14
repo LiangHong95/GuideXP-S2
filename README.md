@@ -132,7 +132,7 @@ Meeting Minutes are in each week's folder <br />
 
 <h2><a name = "Title8"> 8. GuideXP Poster </a></h2>
 poster:
-![Poster](/week10/poster_screenshot.png)<br/>
+![Poster](https://raw.githubusercontent.com/DannyFirmin/GuideXP/master/week10/poster_screenshot.png)<br/>
 <br />
 
 
