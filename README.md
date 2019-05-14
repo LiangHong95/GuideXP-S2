@@ -43,7 +43,7 @@ As our client required, our source code is not open to the public. You need to u
 * Servers:
   * Configured Amazon Web Services (AWS) - Elastic Compute Cloud (EC2)
   * Configured Crazy Domains AU for DNS and domains
-  * Configured nginx/Ubuntu 18.04
+  * Configured nginx/uWSGI/Ubuntu
 
 
 <br />
