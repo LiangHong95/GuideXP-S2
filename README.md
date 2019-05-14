@@ -48,9 +48,11 @@ The GuideXP Team consists of four members plus the our ANU TechLauncher team (TB
 
 **For visitors**
 * Homepage:
-![Homepage](/week10/H.png)<br/>
+![Homepage](/week10/Homepage.png)<br/>
 Visitors can select what they want to know through the navigation.
-* Audio and text:
+* Arts in an exhibition (test):
+![Arts](/week10/artsinaexhi.png)<br/>
+* Audio and text (test):
 ![Audio](/week10/Audioandtext.png)<br/>
 Visitors can listen the audio about the art.
 * Artists:
