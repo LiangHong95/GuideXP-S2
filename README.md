@@ -9,7 +9,6 @@
 <a href = "#Title6"><b> 6. Prototypes </b></a><br/>
 <a href = "#Title7"><b> 7. Schedule </b></a><br/>
 <a href = "#Title8"><b> 8. GuideXP Poster</b></a><br/>
-8.[GuideXP](https://github.com/DannyFirmin/GuideXP/blob/master/GuideXP%20Poster.pdf)
 
 <br />
 <h2><a name = "Title1"> 1. Project Overview </a></h2>
