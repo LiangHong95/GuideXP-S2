@@ -25,15 +25,17 @@ The GuideXP Team consists of four members plus the our ANU TechLauncher team (TB
 
 **The Systems We Developed**
 
+*As our client required, you need to send an email to us to get the account to view the source code. We have provided this account in our audit presentation. We also sent an email that guides you on how to view our source code to tutors, examiners and shadow team*
+
 * Visitor System:  
-  * Link: http://new.guidexp.me/
+  * Deployed Address: http://new.guidexp.me/
+  * [Source Code](https://github.com/DannyFirmin/guidexp.me)
   * JavaScript
   * Html/CSS
   * Bootstrap
-  * Homepage:
-  * 
 * Administrator System: 
-  * Link: http://admin.guidexp.me/
+  * Deployed Address: http://admin.guidexp.me/
+  * [Source Code](https://github.com/LiangHong95/django)
   * Django
   * Django REST framework
   * SQL
@@ -42,6 +44,7 @@ The GuideXP Team consists of four members plus the our ANU TechLauncher team (TB
   * Configured Amazon Web Services (AWS) - Elastic Compute Cloud (EC2)
   * Configured Crazy Domains AU for DNS and domains
   * Configured nginx/Ubuntu 18.04
+
 
 <br />
 <h2><a name = "Title3"> 3. How to use </a></h2>
