@@ -25,7 +25,7 @@ The GuideXP Team consists of four members plus the our ANU TechLauncher team (TB
 
 **The Systems We Developed**
 
-As our client required, our source code is not open to the public. You need to use the GitHub account we provided to view the source code. We have provided this account in our audit presentation. We also sent an email that includes this account to tutors, examiners and shadow team. If you didn't get the account, please open an issue in this repository and leave your email address, we will send it to you as soon as possible. We do apologise to the inconvenience.
+As our client required, our source code is not open to the public. You need to use the GitHub account we provided to view the source code. We have provided this account in our audit presentation. We also sent an email that includes this account to tutors, examiners and shadow team. If you didn't get the account, please [open an issue](https://github.com/DannyFirmin/GuideXP/issues) in this repository and leave your email address, we will send it to you as soon as possible. We do apologise to the inconvenience.
 
 * Visitor System:  
   * Deployed Address: http://new.guidexp.me/
