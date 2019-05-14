@@ -26,14 +26,14 @@ The GuideXP Team consists of four members plus the our ANU TechLauncher team (TB
 **The Systems We Developed**
 
 * Visitor System:  
-  * Link: http://new.guidexp.me/
+  * Deployed Address: http://new.guidexp.me/
+  * [Source Code](https://github.com/DannyFirmin/guidexp.me) (As our client required, you need to send an email to us to get the account to view the source code. We have provided this account in our audit presentation. We also sent an email that guides you on how to view our source code to tutors, examiners and shadow team)
   * JavaScript
   * Html/CSS
   * Bootstrap
-  * Homepage:
-  * 
 * Administrator System: 
-  * Link: http://admin.guidexp.me/
+  * Deployed Address: http://admin.guidexp.me/
+  * [Source Code](https://github.com/LiangHong95/django) (As our client required, you need to send an email to us to get the account to view the source code. We have provided this account in our audit presentation. We also sent an email that guides you on how to view our source code to tutors, examiners and shadow team)
   * Django
   * Django REST framework
   * SQL
