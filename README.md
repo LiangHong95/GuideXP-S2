@@ -39,6 +39,9 @@ As our client required, our source code is not open to the public. You need to u
   * Django REST framework
   * MySQL
   * Bootstrap
+* API:
+  * Return all exhibitions as JSON: http://admin.guidexp.me/api/exhibition/
+  * Return the art's collection as JSON: http://admin.guidexp.me/api/exhibition/ExhibitionTest/
 * Servers:
   * Configured Amazon Web Services (AWS) - Elastic Compute Cloud (EC2)
   * Configured Crazy Domains AU for DNS and domains
