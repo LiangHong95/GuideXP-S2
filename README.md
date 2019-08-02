@@ -11,7 +11,7 @@
 <a href = "#Title8"><b> 8. GuideXP Poster</b></a><br/>
 
 <br />
-<h2><a name = "Title1"> 1. Project Overview </a></h2>
+<h2><a name = "Title1"> 1. Project Description </a></h2>
 
 The [GuideXP](https://guidexp.wordpress.com) is a local startup in Canberra with the vision of creating immersive visitor experiences for galleries, museums and more. GuideXP is a unique, cloud-based approach to audio guides, which allows for access to content from multiple attractions in one place and aims to minimise effort required in uploading and updating content.
 In 2019, GuideXP is partnering with the ANU TechLauncher program to kick start our development. The program will enable us to create a first stage of our product roadmap while engaging with students and providing them real world experience.
