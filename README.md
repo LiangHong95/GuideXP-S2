@@ -94,11 +94,13 @@ Visitors, Content creaters, galleries and museums
 | Team Member                      | Role                                     | 
 |----------------------------------|------------------------------------------| 
 | Kelin Zhu                        | Project manager                          | 
-| Rutai Sun                        | Product manager,back-end(logic,algorithm)| 
-| Liang Hong                       | Back-end(database,test)                  | 
+| Rutai Sun                        | Back-end(logic,algorithm)                | 
+| Liang Hong                       | Back-end(database,test)                  |
+| Yu Qiu                           | Back-end, API                            | 
 | Yuanze Niu                       | Front-end (HTML,CSS), Documentation      | 
 | Danny Feng                       | Front-end (HTML,CSS), Documentation      | 
 | Yu Qiu                           | Back-end, API                            | 
+| Tianai Qiu                       | Front-end (HTML,CSS), Documentation      |                      | 
 
 **Agile Tasks Assignment and User Stories**
 
