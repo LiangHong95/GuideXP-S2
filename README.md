@@ -110,6 +110,8 @@ Visitors, Content creaters, galleries and museums
 
 **Team Communication**
 
+Team meetings <br />
+Team activities <br />
 Slack <br />
 Meeting Minutes are in each week's folder <br />
 <br />
