@@ -123,6 +123,19 @@ Meeting Minutes are in each week's folder <br />
 
 <h2><a name = "Title7"> 7. Schedule </a></h2>
 
+**Schedule:**
+
+| Phase          |Period            |    Milestones                                                               | 
+|----------------|------------------|-----------------------------------------------------------------------------| 
+| Phase 1        |Week2 - Week3     |Discovery report                                                             |
+| Phase 2        |Week4 - Week5     |Database construction                                                        |
+| Phase 3        |Week6 - Week7     |Design the User Interface and logical function of the website                |
+| Phase 4        |Week8 - Week9     |Implement the User Interface (UI)                                            |
+| Phase 5        |Week10 - Week11   |Establish an Application Program Interface (API) which links UI and database |  
+| Phase 6        |Week12            |Testing                                                                      |
+
+<br />
+
 **Milestones:**
 
 | Phase          |Period            |    Milestones                                                               | 
