@@ -8,7 +8,6 @@
 <a href = "#Title5"><b> 5. Team Roles and Management </b></a><br/>
 <a href = "#Title6"><b> 6. Prototypes </b></a><br/>
 <a href = "#Title7"><b> 7. Schedule </b></a><br/>
-<a href = "#Title8"><b> 8. GuideXP Poster</b></a><br/>
 
 <br />
 <h2><a name = "Title1"> 1. Project Description </a></h2>
@@ -149,9 +148,6 @@ Meeting Minutes are in each week's folder <br />
 
 <br />
 
-<h2><a name = "Title8"> 8. GuideXP Poster </a></h2>
-https://github.com/DannyFirmin/GuideXP/blob/master/GuideXP%20Poster.pdf<br/>
-<br />
 
 **This is our latest landing page for semester 2, 2019. Our previous landing page for Semester 1, 2019 is here:**
-https://github.com/LiangHong95/GuideXP-S2
+https://github.com/DannyFirmin/GuideXP
