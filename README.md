@@ -27,13 +27,13 @@ As our client required, our source code is not open to the public. You need to u
 
 * Visitor System:  
   * Deployed Address: http://new.guidexp.me/
-  * [Source Code](https://github.com/DannyFirmin/guidexp.me)
+  * [Source Code](https://github.com/DannyFirmin/guidexp.me) (Need to apply for permission here: http://new.guidexp.me/audit/)
   * JavaScript
   * Html/CSS
   * Bootstrap
 * Administrator System: 
   * Deployed Address: http://admin.guidexp.me/
-  * [Source Code](https://github.com/LiangHong95/django)
+  * [Source Code](https://github.com/LiangHong95/django) (Need to apply for permission here: http://new.guidexp.me/audit/)
   * Django
   * Django REST framework
   * MySQL
@@ -146,3 +146,4 @@ the permission can be reqired by the following link[http://new.guidexp.me/audit/
 * [GuideXP Visitor System Git-repo](https://github.com/DannyFirmin/guidexp.me) (NEED PERMISSION)
 * [GuideXP Admin System Git-repo](https://github.com/LiangHong95/django) (NEED PERMISSION)
 
+You can apply for access permission here: http://new.guidexp.me/audit/ 
