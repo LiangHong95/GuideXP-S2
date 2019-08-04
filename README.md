@@ -3,12 +3,11 @@
 <h2><a name = "content"> Contents </a></h2>
 <a href = "#Title1"><b> 1. Project Description </b></a><br/>
 <a href = "#Title2"><b> 2. Outputs </b></a><br/>
-<a href = "#Title3"><b> 3. How to use </b></a><br/>
-<a href = "#Title4"><b> 4. Stakeholders </b></a><br/>
-<a href = "#Title5"><b> 5. Team Roles and Management </b></a><br/>
-<a href = "#Title6"><b> 6. Prototypes </b></a><br/>
-<a href = "#Title7"><b> 7. Schedule </b></a><br/>
-<a href = "#Title9"><b> 8. Links Summary</b></a><br/>
+<a href = "#Title3"><b> 3. Stakeholders </b></a><br/>
+<a href = "#Title4"><b> 4. Team Roles and Management </b></a><br/>
+<a href = "#Title5"><b> 5. Prototypes </b></a><br/>
+<a href = "#Title6"><b> 6. Schedule </b></a><br/>
+<a href = "#Title7"><b> 7. Links Summary</b></a><br/>
 
 <br />
 <h2><a name = "Title1"> 1. Project Description </a></h2>
@@ -61,47 +60,15 @@ This semester we will customize our system to support National Capital Exhibitio
 * design of website
 
 
-
-<br />
-<h2><a name = "Title3"> 3. How to use </a></h2>
-
-**For visitors**
-* Homepage:
-![Homepage](/week10/Homepage.png)<br/>
-Visitors can select what they want to know through the navigation.
-* Arts in an exhibition (test):
-![Arts](/week10/artsinaexhi.png)<br/>
-* Audio and text (test):
-![Audio](/week10/Audioandtext.png)<br/>
-Visitors can listen the audio about the art.
-* Artists:
-![Artists](/week10/Artist.png)<br/>
-Visitors can know about the artists.
-
-**For creaters and administrators**
-* How to login:
-![Howtologin](/week10/howtologin.png)<br/>
-If the administrator have not signed in, then he or she will enter in the login page when press the two buttons. However, if the adminsitrator have signed in, then he or she will enter in the manage system when press the upload button.
-* Login page:
-![Loginpage](/week10/loginpage.png)<br/>
-The account can only be provided by administrators, in case that anyone can log in and upload non-related files.
-* Create new art:
-![Createart](/week10/createnewart.png)<br/>
-The creaters can create and upload new art and descriptions.
-* Create new account:
-![Createnewaccount](/week10/createnewaccount.png)<br/>
-* Different type of account:
-![Worker](/week10/worker.png)<br/>
-![Cantcreate](/week10/cantcreateaccount.png)<br/>
-If your account type is worker, then you cannot create other accounts.
-<h2><a name = "Title4"> 4. Stakeholders </a></h2>
+<h2><a name = "Title3"> 3. Stakeholders </a></h2>
 
 Visitors, Content creaters, galleries and museums
 
 <br />
 
 
-<h2><a name = "Title5"> 5. Team Roles and Management </a></h2>
+
+<h2><a name = "Title4"> 4. Team Roles and Management </a></h2>
 
 **Roles**
 
@@ -135,7 +102,7 @@ Meeting Minutes <br />
 [GUI Interaction](https://marvelapp.com/317d466/screen/33853357) <br />
 [Wordpress](http://www.guidexp.me/) <br />
 
-<h2><a name = "Title7"> 7. Schedule </a></h2>
+<h2><a name = "Title6"> 6. Schedule </a></h2>
 
 **Schedule:**
 
@@ -164,7 +131,7 @@ Meeting Minutes <br />
 <br />
 
 
-<h2><a name = "Title9"> 8. Links Summary </a></h2>
+<h2><a name = "Title7"> 7. Links Summary </a></h2>
 
 * [GuideXP Previous Landing Page](https://github.com/DannyFirmin/GuideXP)
 * [GuideXP Vistor System](http://new.guidexp.me/)
