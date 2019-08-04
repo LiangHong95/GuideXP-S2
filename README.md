@@ -1,4 +1,4 @@
-<h1> GuideXP-S2 </h1>
+<h1> GuideXP Landing Page (2019 S2) </h1>
 
 <h2><a name = "content"> Contents </a></h2>
 <a href = "#Title1"><b> 1. Project Description </b></a><br/>
@@ -8,6 +8,7 @@
 <a href = "#Title5"><b> 5. Team Roles and Management </b></a><br/>
 <a href = "#Title6"><b> 6. Prototypes </b></a><br/>
 <a href = "#Title7"><b> 7. Schedule </b></a><br/>
+<a href = "#Title9"><b> 8. Links Summary</b></a><br/>
 
 <br />
 <h2><a name = "Title1"> 1. Project Description </a></h2>
@@ -149,5 +150,16 @@ Meeting Minutes are in each week's folder <br />
 <br />
 
 
-**This is our latest landing page for semester 2, 2019. Our previous landing page for Semester 1, 2019 is here:**
-https://github.com/DannyFirmin/GuideXP
+<h2><a name = "Title9"> 8. Links Summary </a></h2>
+
+* [GuideXP Previous Landing Page](https://github.com/DannyFirmin/GuideXP)
+* [GuideXP Vistor System](http://new.guidexp.me/)
+* [GuideXP Admin System](http://admin.guidexp.me/)
+* [GuideXP API](http://admin.guidexp.me/api/exhibition/)
+
+We will offer shadow team members, tutors and examiners premission to access the following contents in the first audit
+
+* [GuideXP Agile Board (Trello)](https://trello.com/b/ggidOa5S/guidexp-user-stories) (NEED PERMISSION)
+* [GuideXP Visitor System Git-repo](https://github.com/DannyFirmin/guidexp.me) (NEED PERMISSION)
+* [GuideXP Admin System Git-repo](https://github.com/LiangHong95/django) (NEED PERMISSION)
+
