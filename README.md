@@ -51,13 +51,14 @@ As our client required, our source code is not open to the public. You need to u
 This semester we will customize our system to support National Capital Exhibition.
 
 
-* Statement of work
-* Meeting minutes
-* Decision log
-* team activities
-* investigation in National Capital Exhibition
-* relfection 
-* design of website
+* [Statement of work](https://github.com/LiangHong95/GuideXP-S2/blob/master/Statement%20of%20Work.pdf)
+* [Meeting minutes](https://github.com/LiangHong95/GuideXP-S2/tree/master/Meeting%20minutes)
+* [Decision log](https://github.com/LiangHong95/GuideXP-S2/blob/master/Decision%20Log.pdf)
+* [investigation in National Capital Exhibition](https://github.com/LiangHong95/GuideXP-S2/blob/master/Meeting%20minutes/Investigation%20%20minutes.pdf)
+* [last semester relfection]() 
+* [design of website](https://github.com/LiangHong95/GuideXP-S2/blob/master/Architecture.png)
+* Setup PHP with Nginx on Linux Server
+* GuideXP Internal Files Access Application (html+CSS+php)
 
 
 <h2><a name = "Title3"> 3. Stakeholders </a></h2>
