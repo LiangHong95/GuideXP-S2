@@ -113,7 +113,7 @@ Visitors, Content creaters, galleries and museums
 Team meetings <br />
 Team activities <br />
 Slack <br />
-Meeting Minutes are in each week's folder <br />
+Meeting Minutes <br />
 <br />
 
 <h2><a name = "Title6"> 6. Prototypes </a></h2>
