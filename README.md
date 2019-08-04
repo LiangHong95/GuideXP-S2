@@ -153,4 +153,5 @@ Meeting Minutes are in each week's folder <br />
 https://github.com/DannyFirmin/GuideXP/blob/master/GuideXP%20Poster.pdf<br/>
 <br />
 
-
+**This is our latest landing page for semester 2, 2019. Our previous landing page for Semester 1, 2019 is here:**
+https://github.com/LiangHong95/GuideXP-S2
