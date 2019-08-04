@@ -100,7 +100,7 @@ Visitors, Content creaters, galleries and museums
 | Yuanze Niu                       | Front-end (HTML,CSS), Documentation      | 
 | Danny Feng                       | Front-end (HTML,CSS), Documentation      | 
 | Yu Qiu                           | Back-end, API                            | 
-| Tianai Qiu                       | Front-end (HTML,CSS), Documentation      |                      | 
+| Tianai Qiu                       | Front-end (HTML,CSS), Documentation      |             
 
 **Agile Tasks Assignment and User Stories**
 
@@ -125,27 +125,27 @@ Meeting Minutes <br />
 
 **Schedule:**
 
-| Phase          |Period            |    Milestones                                                               | 
-|----------------|------------------|-----------------------------------------------------------------------------| 
-| Phase 1        |Week2 - Week3     |Discovery report                                                             |
-| Phase 2        |Week4 - Week5     |Database construction                                                        |
-| Phase 3        |Week6 - Week7     |Design the User Interface and logical function of the website                |
-| Phase 4        |Week8 - Week9     |Implement the User Interface (UI)                                            |
-| Phase 5        |Week10 - Week11   |Establish an Application Program Interface (API) which links UI and database |  
-| Phase 6        |Week12            |Testing                                                                      |
+|Period            |    Milestones                                                                                | 
+|------------------|----------------------------------------------------------------------------------------------| 
+|Week2 - Week3     |Discovery report                                                                              |
+|Week4 - Week5     |Optimize existing system to support new requirements                                          |
+|Week6 - Week7     |Build a prototype guide with several example exhibitions from the National Capital Exhibition |
+|Week8 - Week9     |IImprove the website pattern & add all the data                                               |
+|Week10 - Week11   |Add multi-language supporting function                                                        |  
+|Week12            |Test, debug and gather feedback from clients and pass onto our clients                        |
 
 <br />
 
 **Milestones:**
 
-| Phase          |Period            |    Milestones                                                               | 
-|----------------|------------------|-----------------------------------------------------------------------------| 
-| Phase 1        |Week2 - Week3     |Discovery report                                                             |
-| Phase 2        |Week4 - Week5     |Database construction                                                        |
-| Phase 3        |Week6 - Week7     |Design the User Interface and logical function of the website                |
-| Phase 4        |Week8 - Week9     |Implement the User Interface (UI)                                            |
-| Phase 5        |Week10 - Week11   |Establish an Application Program Interface (API) which links UI and database |  
-| Phase 6        |Week12            |Testing                                                                      |
+| Phase          |    Milestones                                                                               | 
+|----------------|---------------------------------------------------------------------------------------------| 
+| Phase 1        |Discovery report                                                                             |
+| Phase 2        |Database construction and webpage functions.                                                 |
+| Phase 3        |Useable prototype guide of several example exhibitions from the National Capital Exhibition  |
+| Phase 4        |Improved guide for the National Capital Exhibition with provided exhibition data             |
+| Phase 5        |Website supports multi-language                                                              |  
+| Phase 6        |Test the website and pass to clients                                                         |
 
 <br />
 
