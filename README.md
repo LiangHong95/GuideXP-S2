@@ -97,7 +97,7 @@ Slack <br />
 Meeting Minutes <br />
 <br />
 
-<h2><a name = "Title6"> 6. Prototypes </a></h2>
+<h2><a name = "Title5"> 5. Prototypes </a></h2>
 
 [GUI Interaction](https://marvelapp.com/317d466/screen/33853357) <br />
 [Wordpress](http://www.guidexp.me/) <br />
