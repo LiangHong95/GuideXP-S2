@@ -1,4 +1,7 @@
-<h1> GuideXP </h1>
+<h1> GuideXP-S1 </h1>
+
+**This is our landing page for semester 1, 2019. Please visit our lastest one for Semester 2, 2019 here:**
+https://github.com/LiangHong95/GuideXP-S2
 
 <h2><a name = "content"> Contents </a></h2>
 <a href = "#Title1"><b> 1. Project Description </b></a><br/>
