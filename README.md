@@ -139,6 +139,7 @@ Meeting Minutes <br />
 * [GuideXP API](http://admin.guidexp.me/api/exhibition/)
 
 We will offer shadow team members, tutors and examiners premission to access the following contents in the first audit
+the permission can be reqired by the following link[http://new.guidexp.me/audit/]
 
 * [GuideXP Agile Board (Trello)](https://trello.com/b/ggidOa5S/guidexp-user-stories) (NEED PERMISSION)
 * [GuideXP Visitor System Git-repo](https://github.com/DannyFirmin/guidexp.me) (NEED PERMISSION)
