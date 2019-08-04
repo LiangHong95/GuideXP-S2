@@ -16,13 +16,13 @@
 The [GuideXP](https://guidexp.wordpress.com) is a local startup in Canberra with the vision of creating immersive visitor experiences for galleries, museums and more. GuideXP is a unique, cloud-based approach to audio guides, which allows for access to content from multiple attractions in one place and aims to minimise effort required in uploading and updating content.
 In 2019, GuideXP is partnering with the ANU TechLauncher program to kick start our development. The program will enable us to create a first stage of our product roadmap while engaging with students and providing them real world experience.
 We are currently seeking a partner institution to create or share visitor experience content and provide us with feedback as we develop the minimum viable product and test our value propositions. The partner institution will benefit from free use of the service for the duration of 2019.
-The GuideXP Team consists of four members plus the our ANU TechLauncher team (TBC), with a myriad of experience in tech delivery projects, startups, and visitor experience. We are motivated and excited by the prospect of working with a renowned institution such as the Australian Parliament House.
+The GuideXP Team consists of four members plus the our ANU TechLauncher team (TBC), with a myriad of experience in tech delivery projects, startups, and visitor experience. We are motivated and excited by the prospect of working with a renowned institution such as the National Capital Exhibition.
 
 
 <br />
 <h2><a name = "Title2"> 2. Outputs </a></h2>
 
-**The Systems We Developed**
+**The Systems We Developed last semester**
 
 As our client required, our source code is not open to the public. You need to use the GitHub account we provided to view the source code. We have provided this account in our audit presentation. We also sent an email that includes this account to tutors, examiners and shadow team. If you didn't get the account, please [open an issue](https://github.com/DannyFirmin/GuideXP/issues) in this repository and leave your email address, we will send it to you as soon as possible. We do apologise to the inconvenience.
 
@@ -46,6 +46,20 @@ As our client required, our source code is not open to the public. You need to u
   * Configured Amazon Web Services (AWS) - Elastic Compute Cloud (EC2)
   * Configured Crazy Domains AU for DNS and domains
   * Configured nginx/uWSGI/Ubuntu
+
+**The output for this semester**
+
+This semester we will customize our system to support National Capital Exhibition.
+
+
+* Statement of work
+* Meeting minutes
+* Decision log
+* team activities
+* investigation in National Capital Exhibition
+* relfection 
+* design of website
+
 
 
 <br />
