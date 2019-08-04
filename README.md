@@ -55,7 +55,7 @@ This semester we will customize our system to support National Capital Exhibitio
 * [Meeting minutes](https://github.com/LiangHong95/GuideXP-S2/tree/master/Meeting%20minutes)
 * [Decision log](https://github.com/LiangHong95/GuideXP-S2/blob/master/Decision%20Log.pdf)
 * [investigation in National Capital Exhibition](https://github.com/LiangHong95/GuideXP-S2/blob/master/Meeting%20minutes/Investigation%20%20minutes.pdf)
-* [last semester relfection]() 
+* [last semester relfection](https://github.com/LiangHong95/GuideXP-S2/blob/master/Reflection.pdf) 
 * [design of website](https://github.com/LiangHong95/GuideXP-S2/blob/master/Architecture.png)
 * Setup PHP with Nginx on Linux Server
 * GuideXP Internal Files Access Application (html+CSS+php)
