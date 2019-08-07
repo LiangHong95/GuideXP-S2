@@ -147,3 +147,4 @@ the permission can be reqired by the following link[http://new.guidexp.me/audit/
 * [GuideXP Admin System Git-repo](https://github.com/LiangHong95/django) (NEED PERMISSION)
 
 You can apply for access permission here: http://new.guidexp.me/audit/ 
+You can get the latest files via:https://drive.google.com/drive/folders/1R0FQe9T7TsVXEA0OqXXcqpkuJj0P9pv4
