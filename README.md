@@ -107,14 +107,13 @@ Meeting Minutes <br />
 
 **Schedule:**
 
-|Period            |    Schedule                                                                                | 
-|------------------|----------------------------------------------------------------------------------------------| 
-|Week2 - Week3     |Discovery report                                                                              |
-|Week4 - Week5     |Optimize existing system to support new requirements                                          |
-|Week6 - Week7     |Build a prototype guide with several example exhibitions from the National Capital Exhibition |
-|Week8 - Week9     |IImprove the website pattern & add all the data                                               |
-|Week10 - Week11   |Add multi-language supporting function                                                        |  
-|Week12            |Test, debug and gather feedback from clients and pass onto our clients                        |
+|Period             |    Schedule                                                                                  | 
+|-------------------|----------------------------------------------------------------------------------------------| 
+|Week2 - Week3      |Discovery of requirements, organize all files and documents.                                  |
+|Week4 - Week5      |Optimize existing system to support new requirements.                                         |
+|Week6 - Week7      |Build a prototype multi-language function supported guide Website with several example exhibitions from the National Capital Exhibition.|
+|Week8 - Week11      |Improve the website pattern & add all the data.                                              |
+|Week12             |Test, debug and gather feedback from clients and pass onto our clients.                       |
 
 <br />
 
@@ -122,12 +121,13 @@ Meeting Minutes <br />
 
 | Phase          |    Milestones                                                                               | 
 |----------------|---------------------------------------------------------------------------------------------| 
-| Phase 1        |Discovery report                                                                             |
-| Phase 2        |Database construction and webpage functions.                                                 |
-| Phase 3        |Useable prototype guide of several example exhibitions from the National Capital Exhibition  |
-| Phase 4        |Improved guide for the National Capital Exhibition with provided exhibition data             |
-| Phase 5        |Website supports multi-language                                                              |  
-| Phase 6        |Test the website and pass to clients                                                         |
+| Phase 1        |Discovery report.                                                                            |
+| Phase 2        |All files and documents organized.                                                           |
+| Phase 3        |Database construction and webpage functions.                                                 |
+| Phase 4        |Useable prototype guide of several example exhibitions from the National Capital Exhibition. |
+| Phase 5        |Website supports multi-language.                                                             |
+| Phase 6        |Improved guide for the National Capital Exhibition with provided exhibition data.            |
+| Phase 7        |Test the website and pass to clients                                                         |
 
 <br />
 
