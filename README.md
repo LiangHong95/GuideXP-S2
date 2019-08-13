@@ -107,7 +107,7 @@ Meeting Minutes <br />
 
 **Schedule:**
 
-|Period            |    Milestones                                                                                | 
+|Period            |    Schedule                                                                                | 
 |------------------|----------------------------------------------------------------------------------------------| 
 |Week2 - Week3     |Discovery report                                                                              |
 |Week4 - Week5     |Optimize existing system to support new requirements                                          |
