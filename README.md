@@ -50,7 +50,6 @@ As our client required, our source code is not open to the public. You need to u
 
 This semester we will customize our system to support National Capital Exhibition.
 
-
 * [Statement of work](https://github.com/LiangHong95/GuideXP-S2/blob/master/Statement%20of%20Work.pdf)
 * [Meeting minutes](https://github.com/LiangHong95/GuideXP-S2/tree/master/Meeting%20minutes)
 * [Decision log](https://github.com/LiangHong95/GuideXP-S2/blob/master/Decision%20Log.pdf)
@@ -59,6 +58,12 @@ This semester we will customize our system to support National Capital Exhibitio
 * [design of website](https://github.com/LiangHong95/GuideXP-S2/blob/master/Architecture.png)
 * Setup PHP with Nginx on Linux Server
 * GuideXP Internal Files Access Application (html+CSS+php)
+* database design
+    - [first vision:](https://www.lucidchart.com/documents/edit/01deb982-2b3f-43cb-bbe7-79a9a3cb75d6/0_0?shared=true) 
+    - [second vision:](https://www.lucidchart.com/documents/edit/fe79fa5e-b6a8-4d30-a5b7-e228f7d5a3d4/LCvIjK1QikP6?shared=true)
+    - [third vision:](https://www.lucidchart.com/documents/edit/8a0ba851-c80c-465d-ada9-2d254fb49968/0_0?shared=true) 
+* [new design of management system(need apply for permission)](https://github.com/qiuyu21/guidexp)
+
 
 
 <h2><a name = "Title3"> 3. Stakeholders </a></h2>
