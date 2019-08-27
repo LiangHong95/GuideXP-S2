@@ -59,9 +59,9 @@ This semester we will customize our system to support National Capital Exhibitio
 * Setup PHP with Nginx on Linux Server
 * GuideXP Internal Files Access Application (html+CSS+php)
 * database design
-    - [first vision:](https://www.lucidchart.com/documents/edit/01deb982-2b3f-43cb-bbe7-79a9a3cb75d6/0_0?shared=true) 
-    - [second vision:](https://www.lucidchart.com/documents/edit/fe79fa5e-b6a8-4d30-a5b7-e228f7d5a3d4/LCvIjK1QikP6?shared=true)
-    - [third vision:](https://www.lucidchart.com/documents/edit/8a0ba851-c80c-465d-ada9-2d254fb49968/0_0?shared=true) 
+    - [first vision:](https://www.lucidchart.com/invitations/accept/39d53fbc-2016-4d15-a900-5f4fec0fa3a1) 
+    - [second vision:](https://www.lucidchart.com/invitations/accept/417d04a8-97d1-422d-bb2d-6080383ad8e0)
+    - [third vision:](https://www.lucidchart.com/invitations/accept/3d2586b6-eec2-4e6a-8d67-1ba96490d14f) 
 * [new design of management system(need apply for permission)](https://github.com/qiuyu21/guidexp)
 
 
