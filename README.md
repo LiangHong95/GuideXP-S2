@@ -53,16 +53,16 @@ This semester we will customize our system to support National Capital Exhibitio
 * [Statement of work](https://github.com/LiangHong95/GuideXP-S2/blob/master/Statement%20of%20Work.pdf)
 * [Meeting minutes](https://github.com/LiangHong95/GuideXP-S2/tree/master/Meeting%20minutes)
 * [Decision log](https://github.com/LiangHong95/GuideXP-S2/blob/master/Decision%20Log.pdf)
-* [investigation in National Capital Exhibition](https://github.com/LiangHong95/GuideXP-S2/blob/master/Meeting%20minutes/Investigation%20%20minutes.pdf)
-* [last semester relfection](https://github.com/LiangHong95/GuideXP-S2/blob/master/Reflection.pdf) 
-* [design of website](https://github.com/LiangHong95/GuideXP-S2/blob/master/Architecture.png)
+* [Investigation in National Capital Exhibition](https://github.com/LiangHong95/GuideXP-S2/blob/master/Meeting%20minutes/Investigation%20%20minutes.pdf)
+* [Relfection](https://github.com/LiangHong95/GuideXP-S2/blob/master/Reflection.pdf) 
+* [Design of website](https://github.com/LiangHong95/GuideXP-S2/blob/master/Architecture.png)
 * Setup PHP with Nginx on Linux Server
 * GuideXP Internal Files Access Application (html+CSS+php)
-* database design
+* Database design
     - [first vision:](https://www.lucidchart.com/invitations/accept/39d53fbc-2016-4d15-a900-5f4fec0fa3a1) 
     - [second vision:](https://www.lucidchart.com/invitations/accept/417d04a8-97d1-422d-bb2d-6080383ad8e0)
     - [third vision:](https://www.lucidchart.com/invitations/accept/3d2586b6-eec2-4e6a-8d67-1ba96490d14f) 
-* [new design of management system(need apply for permission)](https://github.com/qiuyu21/guidexp)
+* [New design of management system(need apply for permission)](https://github.com/qiuyu21/guidexp)
 
 
 
