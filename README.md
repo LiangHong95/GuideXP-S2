@@ -9,6 +9,45 @@
 <a href = "#Title6"><b> 6. Schedule </b></a><br/>
 <a href = "#Title7"><b> 7. Links Summary</b></a><br/>
 
+
+<h2><a name = "Title7"> 7. Links Summary </a></h2>
+
+* [GuideXP Previous Landing Page](https://github.com/DannyFirmin/GuideXP)
+* [GuideXP Vistor System](http://new.guidexp.me/)
+* [GuideXP Admin System](http://admin.guidexp.me/)
+* [GuideXP API](http://admin.guidexp.me/api/exhibition/)
+
+We will offer shadow team members, tutors and examiners premission to access the following contents in the first audit
+the permission can be reqired by the following link[http://new.guidexp.me/audit/]
+
+* [GuideXP Agile Board (Trello)](https://trello.com/b/ggidOa5S/guidexp-user-stories) (NEED PERMISSION)
+* [GuideXP Visitor System Git-repo](https://github.com/DannyFirmin/guidexp.me) (NEED PERMISSION)
+* [GuideXP Admin System Git-repo](https://github.com/LiangHong95/django) (NEED PERMISSION)
+
+You can apply for access permission here: http://new.guidexp.me/audit/ 
+
+You can get the latest files via:https://drive.google.com/drive/folders/1O7Mul39BX1Jrt4N7aUkZ0SBubHKRWP9a?usp=sharing
+
+[**Google Drive Documents**](https://drive.google.com/drive/folders/1O7Mul39BX1Jrt4N7aUkZ0SBubHKRWP9a?usp=sharing)
+
+[**Decision logs**](https://docs.google.com/spreadsheets/d/1scjGys2zqBkLLp7vvSz-UzyEMPZI8SkM6shNRGYsYP0/edit#gid=0)
+
+[**Reflection**](https://docs.google.com/spreadsheets/d/1RhjQhP3DVOvxxmsSMWrK19oiD3x8GKhqspuf2ID8S-w/edit#gid=0)
+
+[**Meeting minutes**](https://drive.google.com/drive/folders/1LMdgXdwDLt9_uVhTUprtSe14U97PyhfC)
+
+[**Risk Management**](https://docs.google.com/spreadsheets/d/1eNhxivICWJnMlS-Gg9OEO41WBAhf0jAOtbw4So1bZpU/edit)
+
+[**GUIDEXP Audit Presentation1**](https://docs.google.com/presentation/d/1IsWbMngdjHLH1pDuzSuXD56Tbi4LP3VLMtLNua-6ApA/edit)
+
+[**GUIDEXP Audit Presentation2**](https://docs.google.com/presentation/d/12FtHkg2daI94SvBCI93p9lNCL-8M5AQZ4MjtKNVIpvc/edit)
+
+[**GUIDEXP Audit Presentation3**](https://docs.google.com/presentation/d/1_LZy-65OLDTSAnedEUfhpxX6gBDE8xzT8dh4tdt5fgs/edit#slide=id.g60ffc6e1c9_25_9)
+
+[**Posters**]()
+
+[**National Capital Exhibition Photo data**](https://drive.google.com/drive/folders/1VlotpVTVmUw4luM2NpOwB_I1cFVMgYhd?usp=sharing)
+
 <br />
 <h2><a name = "Title1"> 1. Project Description </a></h2>
 
@@ -137,42 +176,3 @@ Meeting Minutes <br />
 <br />
 
 
-<h2><a name = "Title7"> 7. Links Summary </a></h2>
-
-* [GuideXP Previous Landing Page](https://github.com/DannyFirmin/GuideXP)
-* [GuideXP Vistor System](http://new.guidexp.me/)
-* [GuideXP Admin System](http://admin.guidexp.me/)
-* [GuideXP API](http://admin.guidexp.me/api/exhibition/)
-
-We will offer shadow team members, tutors and examiners premission to access the following contents in the first audit
-the permission can be reqired by the following link[http://new.guidexp.me/audit/]
-
-* [GuideXP Agile Board (Trello)](https://trello.com/b/ggidOa5S/guidexp-user-stories) (NEED PERMISSION)
-* [GuideXP Visitor System Git-repo](https://github.com/DannyFirmin/guidexp.me) (NEED PERMISSION)
-* [GuideXP Admin System Git-repo](https://github.com/LiangHong95/django) (NEED PERMISSION)
-
-You can apply for access permission here: http://new.guidexp.me/audit/ 
-
-You can get the latest files via:https://drive.google.com/drive/folders/1O7Mul39BX1Jrt4N7aUkZ0SBubHKRWP9a?usp=sharing
-
-[**Google Drive Documents**](https://drive.google.com/drive/folders/1O7Mul39BX1Jrt4N7aUkZ0SBubHKRWP9a?usp=sharing)
-
-[**Decision logs**](https://docs.google.com/spreadsheets/d/1scjGys2zqBkLLp7vvSz-UzyEMPZI8SkM6shNRGYsYP0/edit#gid=0)
-
-[**Reflection**](https://docs.google.com/spreadsheets/d/1RhjQhP3DVOvxxmsSMWrK19oiD3x8GKhqspuf2ID8S-w/edit#gid=0)
-
-[**Meeting minutes**](https://drive.google.com/drive/folders/1LMdgXdwDLt9_uVhTUprtSe14U97PyhfC)
-
-[**Risk Management**](https://docs.google.com/spreadsheets/d/1eNhxivICWJnMlS-Gg9OEO41WBAhf0jAOtbw4So1bZpU/edit)
-
-[**GUIDEXP Audit Presentation1**](https://docs.google.com/presentation/d/1IsWbMngdjHLH1pDuzSuXD56Tbi4LP3VLMtLNua-6ApA/edit)
-
-[**GUIDEXP Audit Presentation2**](https://docs.google.com/presentation/d/12FtHkg2daI94SvBCI93p9lNCL-8M5AQZ4MjtKNVIpvc/edit)
-
-[**GUIDEXP Audit Presentation3**](https://docs.google.com/presentation/d/1_LZy-65OLDTSAnedEUfhpxX6gBDE8xzT8dh4tdt5fgs/edit#slide=id.g60ffc6e1c9_25_9)
-
-[**Posters**]()
-
-[**National Capital Exhibition Photo data**](https://drive.google.com/drive/folders/1VlotpVTVmUw4luM2NpOwB_I1cFVMgYhd?usp=sharing)
-
- 
