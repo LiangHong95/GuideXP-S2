@@ -154,3 +154,8 @@ the permission can be reqired by the following link[http://new.guidexp.me/audit/
 You can apply for access permission here: http://new.guidexp.me/audit/ 
 
 You can get the latest files via:https://drive.google.com/drive/folders/1O7Mul39BX1Jrt4N7aUkZ0SBubHKRWP9a?usp=sharing
+
+[Google Drive Documents](https://drive.google.com/drive/folders/1O7Mul39BX1Jrt4N7aUkZ0SBubHKRWP9a?usp=sharing)
+
+[Decision logs](https://docs.google.com/spreadsheets/d/1scjGys2zqBkLLp7vvSz-UzyEMPZI8SkM6shNRGYsYP0/edit#gid=0)
+ 
