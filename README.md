@@ -161,4 +161,18 @@ You can get the latest files via:https://drive.google.com/drive/folders/1O7Mul39
 
 [**Reflection**](https://docs.google.com/spreadsheets/d/1RhjQhP3DVOvxxmsSMWrK19oiD3x8GKhqspuf2ID8S-w/edit#gid=0)
 
+[**Meeting minutes**](https://drive.google.com/drive/folders/1LMdgXdwDLt9_uVhTUprtSe14U97PyhfC)
+
+[**Risk Management**](https://docs.google.com/spreadsheets/d/1eNhxivICWJnMlS-Gg9OEO41WBAhf0jAOtbw4So1bZpU/edit)
+
+[**GUIDEXP Audit Presentation1**](https://docs.google.com/presentation/d/1IsWbMngdjHLH1pDuzSuXD56Tbi4LP3VLMtLNua-6ApA/edit)
+
+[**GUIDEXP Audit Presentation2**](https://docs.google.com/presentation/d/12FtHkg2daI94SvBCI93p9lNCL-8M5AQZ4MjtKNVIpvc/edit)
+
+[**GUIDEXP Audit Presentation3**](https://docs.google.com/presentation/d/1_LZy-65OLDTSAnedEUfhpxX6gBDE8xzT8dh4tdt5fgs/edit#slide=id.g60ffc6e1c9_25_9)
+
+[**Posters**]()
+
+[**National Capital Exhibition Photo data**](https://drive.google.com/drive/folders/1VlotpVTVmUw4luM2NpOwB_I1cFVMgYhd?usp=sharing)
+
  
