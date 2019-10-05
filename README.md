@@ -38,7 +38,7 @@ You can get the latest files via:https://drive.google.com/drive/folders/1O7Mul39
 
 [**Posters**](https://drive.google.com/file/d/1wdRti8IROds1x3PbCkhRgnCQ7zKfYC5-/view?usp=sharing)
 
-[**National Capital Exhibition Photo data**](https://drive.google.com/drive/folders/1VlotpVTVmUw4luM2NpOwB_I1cFVMgYhd?usp=sharing)
+[**National Capital Exhibition Photo & Text data**](https://drive.google.com/drive/folders/1VlotpVTVmUw4luM2NpOwB_I1cFVMgYhd?usp=sharing)
 
 
 <h2><a name = "content"> Contents </a></h2>
