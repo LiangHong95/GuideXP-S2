@@ -129,7 +129,6 @@ Visitors, Content creaters, galleries and museums
 | Yu Qiu                           | Back-end, API                            | 
 | Yuanze Niu                       | Front-end (HTML,CSS), Documentation      | 
 | Danny Feng                       | Front-end (HTML,CSS), Documentation      | 
-| Yu Qiu                           | Back-end, API                            | 
 | Tianai Qiu                       | Front-end (HTML,CSS), Documentation      |             
 
 **Agile Tasks Assignment and User Stories**
