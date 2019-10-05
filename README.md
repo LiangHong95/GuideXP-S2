@@ -24,7 +24,11 @@ You can get the latest files via:https://drive.google.com/drive/folders/1O7Mul39
 
 [**Decision logs**](https://docs.google.com/spreadsheets/d/1scjGys2zqBkLLp7vvSz-UzyEMPZI8SkM6shNRGYsYP0/edit#gid=0)
 
-[**Reflection**](https://docs.google.com/spreadsheets/d/1RhjQhP3DVOvxxmsSMWrK19oiD3x8GKhqspuf2ID8S-w/edit#gid=0)
+[**Audit1 Reflection**](https://docs.google.com/document/d/13hkFeUvVKRl0q7YRNX6cA4Y5EW2OEzHt0DYvA1Bi8G4/edit?usp=sharing)
+
+[**Audit2 Reflection**](https://docs.google.com/document/d/1QOrpApCTEfTQurlnSUaJKrWUrxI4XjpGaDWkxBIIA6I/edit?usp=sharing)
+
+[**Audit3 Reflection**](https://docs.google.com/document/d/1RE6Rl417hDRIgIojP37IzXoAgKHQd2aKwPTZ0if9__Q/edit?usp=sharing)
 
 [**Meeting minutes**](https://drive.google.com/drive/folders/1LMdgXdwDLt9_uVhTUprtSe14U97PyhfC)
 
@@ -129,6 +133,7 @@ Visitors, Content creaters, galleries and museums
 | Yu Qiu                           | Back-end, API                            | 
 | Yuanze Niu                       | Front-end (HTML,CSS), Documentation      | 
 | Danny Feng                       | Front-end (HTML,CSS), Documentation      | 
+| Yu Qiu                           | Back-end, API                            | 
 | Tianai Qiu                       | Front-end (HTML,CSS), Documentation      |             
 
 **Agile Tasks Assignment and User Stories**
