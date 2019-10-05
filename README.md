@@ -36,7 +36,7 @@ You can get the latest files via:https://drive.google.com/drive/folders/1O7Mul39
 
 [**GUIDEXP Audit Presentation3**](https://docs.google.com/presentation/d/1_LZy-65OLDTSAnedEUfhpxX6gBDE8xzT8dh4tdt5fgs/edit#slide=id.g60ffc6e1c9_25_9)
 
-[**Posters**]()
+[**Posters**](https://drive.google.com/file/d/1wdRti8IROds1x3PbCkhRgnCQ7zKfYC5-/view?usp=sharing)
 
 [**National Capital Exhibition Photo data**](https://drive.google.com/drive/folders/1VlotpVTVmUw4luM2NpOwB_I1cFVMgYhd?usp=sharing)
 
