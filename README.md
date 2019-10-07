@@ -17,18 +17,12 @@
 * [GuideXP Previous Landing Page](https://github.com/DannyFirmin/GuideXP)
 * [GuideXP Vistor System](http://new.guidexp.me/)
 * [GuideXP Admin System](http://admin.guidexp.me/)
-* [GuideXP API](http://admin.guidexp.me/api/exhibition/)
+* [GuideXP API](http://13.239.36.190/api/get_exhibition/en/1/all)
 
-We will offer shadow team members, tutors and examiners premission to access the following contents in the first audit
-the permission can be reqired by the following link[http://new.guidexp.me/audit/]
 
-* [GuideXP Agile Board (Trello)](https://trello.com/b/ggidOa5S/guidexp-user-stories) (NEED PERMISSION)
-* [GuideXP Visitor System Git-repo](https://github.com/DannyFirmin/guidexp.me) (NEED PERMISSION)
-* [GuideXP Admin System Git-repo](https://github.com/LiangHong95/django) (NEED PERMISSION)
-
-You can apply for access permission here: http://new.guidexp.me/audit/ 
-
-You can get the latest files via:https://drive.google.com/drive/folders/1O7Mul39BX1Jrt4N7aUkZ0SBubHKRWP9a?usp=sharing
+* [GuideXP Agile Board (Trello)](https://trello.com/b/ggidOa5S/guidexp-user-stories) (You should have the premission to access)
+ We write lots of code every week, check it here
+* [GuideXP Code Git-repo](https://github.com/DannyFirmin/GuideXP-Codes) (You should have the premission to access)
 
 [**Google Drive Documents**](https://drive.google.com/drive/folders/1O7Mul39BX1Jrt4N7aUkZ0SBubHKRWP9a?usp=sharing)
 
@@ -43,6 +37,8 @@ You can get the latest files via:https://drive.google.com/drive/folders/1O7Mul39
 [**Meeting minutes**](https://drive.google.com/drive/folders/1LMdgXdwDLt9_uVhTUprtSe14U97PyhfC)
 
 [**Risk Management**](https://docs.google.com/spreadsheets/d/1eNhxivICWJnMlS-Gg9OEO41WBAhf0jAOtbw4So1bZpU/edit)
+
+[**Test and feedback log**](https://docs.google.com/spreadsheets/d/15Neb1FO2DRY-3b5u-xMBzYsHoSPdGkWzDAtxeHkRSyU/edit?usp=sharing)
 
 [**GUIDEXP Audit Presentation1**](https://docs.google.com/presentation/d/1IsWbMngdjHLH1pDuzSuXD56Tbi4LP3VLMtLNua-6ApA/edit)
 
