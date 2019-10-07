@@ -21,6 +21,7 @@
 
 
 * [GuideXP Agile Board (Trello)](https://trello.com/b/ggidOa5S/guidexp-user-stories) (You should have the premission to access)
+ 
  We write lots of code every week, check it here
 * [GuideXP Code Git-repo](https://github.com/DannyFirmin/GuideXP-Codes) (You should have the premission to access)
 
