@@ -1,6 +1,16 @@
 <h1> GuideXP Landing Page (2019 S2) </h1>
 
 
+<h2><a name = "content"> Contents </a></h2>
+<a href = "#Title1"><b> 1. Links Summary</b></a><br/>
+<a href = "#Title2"><b> 2. Project Description </b></a><br/>
+<a href = "#Title3"><b> 3. Outputs </b></a><br/>
+<a href = "#Title4"><b> 4. Stakeholders </b></a><br/>
+<a href = "#Title5"><b> 5. Team Roles and Management </b></a><br/>
+<a href = "#Title6"><b> 6. Prototypes </b></a><br/>
+<a href = "#Title7"><b> 7. Schedule </b></a><br/>
+
+<br />
 
 <h2><a name = "Title1"> 1. Links Summary </a></h2>
 
@@ -43,16 +53,6 @@ You can get the latest files via:https://drive.google.com/drive/folders/1O7Mul39
 [**Posters**](https://drive.google.com/file/d/1wdRti8IROds1x3PbCkhRgnCQ7zKfYC5-/view?usp=sharing)
 
 [**National Capital Exhibition Photo & Text data**](https://drive.google.com/drive/folders/1VlotpVTVmUw4luM2NpOwB_I1cFVMgYhd?usp=sharing)
-
-
-<h2><a name = "content"> Contents </a></h2>
-<a href = "#Title1"><b> 1. Links Summary</b></a><br/>
-<a href = "#Title2"><b> 2. Project Description </b></a><br/>
-<a href = "#Title3"><b> 3. Outputs </b></a><br/>
-<a href = "#Title4"><b> 4. Stakeholders </b></a><br/>
-<a href = "#Title5"><b> 5. Team Roles and Management </b></a><br/>
-<a href = "#Title6"><b> 6. Prototypes </b></a><br/>
-<a href = "#Title7"><b> 7. Schedule </b></a><br/>
 
 
 
