@@ -71,42 +71,33 @@ As our client required, our source code is not open to the public. You need to u
 
 * Visitor System:  
   * Deployed Address: http://new.guidexp.me/
-  * [Source Code](https://github.com/DannyFirmin/guidexp.me) (Need to apply for permission here: http://new.guidexp.me/audit/)
+  * [Source Code](https://github.com/DannyFirmin/GuideXP-Codes/tree/master/front-end) (Need to apply for permission here: http://new.guidexp.me/audit/)
   * JavaScript
   * Html/CSS
   * Bootstrap
 * Administrator System: 
   * Deployed Address: http://admin.guidexp.me/
-  * [Source Code](https://github.com/LiangHong95/django) (Need to apply for permission here: http://new.guidexp.me/audit/)
+  * [Source Code](https://github.com/DannyFirmin/GuideXP-Codes/tree/master/back-end) (Need to apply for permission here: http://new.guidexp.me/audit/)
   * Django
   * Django REST framework
   * MySQL
   * Bootstrap
 * API:
-  * Return all exhibitions as JSON: http://admin.guidexp.me/api/exhibition/
+  * Return all exhibitions as JSON (NEW): http://13.239.36.190/api/get_exhibition/en/1/all
   * Return the art's collection as JSON: http://admin.guidexp.me/api/exhibition/ExhibitionTest/
 * Servers:
   * Configured Amazon Web Services (AWS) - Elastic Compute Cloud (EC2)
   * Configured Crazy Domains AU for DNS and domains
   * Configured nginx/uWSGI/Ubuntu
 
-**The output for this semester**
-
-This semester we will customize our system to support National Capital Exhibition.
+**Other Files**
 
 * [Statement of work](https://github.com/LiangHong95/GuideXP-S2/blob/master/Statement%20of%20Work.pdf)
-* [Meeting minutes](https://github.com/LiangHong95/GuideXP-S2/tree/master/Meeting%20minutes)
-* [Decision log](https://github.com/LiangHong95/GuideXP-S2/blob/master/Decision%20Log.pdf)
-* [Investigation in National Capital Exhibition](https://github.com/LiangHong95/GuideXP-S2/blob/master/Meeting%20minutes/Investigation%20%20minutes.pdf)
-* [Relfection](https://github.com/LiangHong95/GuideXP-S2/blob/master/Reflection.pdf) 
 * [Design of website](https://github.com/LiangHong95/GuideXP-S2/blob/master/Architecture.png)
-* Setup PHP with Nginx on Linux Server
-* GuideXP Internal Files Access Application (html+CSS+php)
 * Database design
-    - [first vision:](https://www.lucidchart.com/invitations/accept/39d53fbc-2016-4d15-a900-5f4fec0fa3a1) 
-    - [second vision:](https://www.lucidchart.com/invitations/accept/417d04a8-97d1-422d-bb2d-6080383ad8e0)
-    - [third vision:](https://www.lucidchart.com/invitations/accept/3d2586b6-eec2-4e6a-8d67-1ba96490d14f) 
-* [New design of management system(need apply for permission)](https://github.com/qiuyu21/guidexp)
+    - [first vision](https://www.lucidchart.com/invitations/accept/39d53fbc-2016-4d15-a900-5f4fec0fa3a1) 
+    - [second vision](https://www.lucidchart.com/invitations/accept/417d04a8-97d1-422d-bb2d-6080383ad8e0)
+    - [third vision](https://www.lucidchart.com/invitations/accept/3d2586b6-eec2-4e6a-8d67-1ba96490d14f) 
 
 
 
