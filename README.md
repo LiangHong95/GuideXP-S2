@@ -147,13 +147,14 @@ Meeting Minutes <br />
 
 **Schedule:**
 
-|Period             |    Schedule                                                                                  | 
-|-------------------|----------------------------------------------------------------------------------------------| 
-|Week2 - Week3      |Discovery of requirements, organize all files and documents.                                  |
-|Week4              |Optimize existing system to support new requirements.                                         |
-|Week5 - Week7      |Build a prototype multi-language function supported guide Website with several example exhibitions from the National Capital Exhibition.|
-|Week8 - Week11      |Improve the website pattern & add all the data.                                              |
-|Week12             |Test, debug and gather feedback from clients and pass onto our clients.                       |
+|Period               |    Schedule                                                                                  | 
+|---------------------|----------------------------------------------------------------------------------------------| 
+|Week2 - Week3        |Discovery of requirements, organize all files and documents.                                  |
+|Week4                |Optimize existing system to support new requirements.                                         |
+|Week5 - Week6        |Improve interface of the prototype guide Website.                                             |
+|Week7 - Week8        |Data management.                                                                              |
+|Week9 - Week10       |Finalize implementation of multi-language feature, prepare testing.                           |
+|Week11 - week12      |Test, debug and gather feedback from clients and pass onto our clients.                       |
 
 <br />
 
