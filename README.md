@@ -17,7 +17,7 @@
 * [GuideXP Previous Landing Page](https://github.com/DannyFirmin/GuideXP)
 * [GuideXP Vistor System](http://new.guidexp.me/)
 
-The latest visitor system we showed on Audit 3 presentation is not been deployed on our production server, because more security test is needed. You can download the latest one from our Code Git-repo and run it locally
+The latest visitor system (beta) we showed on Audit 3 presentation will be deployed on our production server in two weeks because we need more testing. You can download the latest one from our Code Git-repo and run it locally
 * [GuideXP Admin System](http://admin.guidexp.me/)
 
 * [GuideXP API](http://13.239.36.190/api/get_exhibition/en/1/all)
