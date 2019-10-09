@@ -15,8 +15,12 @@
 <h2><a name = "Title1"> 1. Links Summary </a></h2>
 
 * [GuideXP Previous Landing Page](https://github.com/DannyFirmin/GuideXP)
+
+(The latest visitor system we showed on Audit 3 presentation is not been deployed on server, you can download the latest one from our Code Git-repo and run it locally)
 * [GuideXP Vistor System](http://new.guidexp.me/)
 * [GuideXP Admin System](http://admin.guidexp.me/)
+
+(The latest API we shown on Audit 3 is deployed, check it here)
 * [GuideXP API](http://13.239.36.190/api/get_exhibition/en/1/all)
 
 
