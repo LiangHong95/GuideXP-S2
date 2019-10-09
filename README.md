@@ -45,7 +45,7 @@
 
 [**GUIDEXP Audit Presentation2**](https://docs.google.com/presentation/d/12FtHkg2daI94SvBCI93p9lNCL-8M5AQZ4MjtKNVIpvc/edit)
 
-[**GUIDEXP Audit Presentation3**](https://docs.google.com/presentation/d/1_LZy-65OLDTSAnedEUfhpxX6gBDE8xzT8dh4tdt5fgs/edit#slide=id.g60ffc6e1c9_25_9)
+[**GUIDEXP Audit Presentation3**](https://drive.google.com/file/d/1SFIrYeZB1FeJrYKnptIVr3Nhr9JebX-f/view?usp=sharing)
 
 [**Posters**](https://drive.google.com/file/d/1wdRti8IROds1x3PbCkhRgnCQ7zKfYC5-/view?usp=sharing)
 
