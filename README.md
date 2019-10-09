@@ -56,6 +56,7 @@ The latest API we shown on Audit 3 is been deployed, check it here
 
 [**National Capital Exhibition Photo & Text data**](https://drive.google.com/drive/folders/1VlotpVTVmUw4luM2NpOwB_I1cFVMgYhd?usp=sharing)
 
+(The archive folder is the documents from Semester 1, if you are examining us for the documents of Semester 2, please ignore archive, all the required documents can be found in the previous links.)
 
 
 <br />
